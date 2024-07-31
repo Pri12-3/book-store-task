@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 ### Run Locally
 
 To run **Story scrolls** locally, run this command on your git bash:
-
+https://pri12-3.github.io/book-store-task/
 
 
 ```
